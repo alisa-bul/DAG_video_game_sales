@@ -7,11 +7,11 @@
 - У какого издателя самые высокие средние продажи в Японии? Перечислить все, если их несколько
 - Сколько игр продались лучше в Европе, чем в Японии? \
 
-Дополнительно настроены **уведомления через telegram-бота** (airflow_assistant_bot) об успешном выполнении DAG:
+Дополнительно настроены **уведомления через telegram-бота** (airflow_assistant_bot) об успешном выполнении DAG:\
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/8b1408cd-a1fa-4744-91e5-23693f2e5e3a" />
 
 Так выглядит **структура DAG**:\
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fba06899-c41a-4cb2-8209-5851fba58613" />
 
-В логах последней таски (*print_info*) мы получаем краткий **отчет**, отвечающий на все интересующие нас вопросы:
+В логах последней таски (*print_info*) мы получаем краткий **отчет**, отвечающий на все интересующие нас вопросы:\
 <img width="1062" height="216" alt="image" src="https://github.com/user-attachments/assets/a29188a8-a33f-48dd-ac05-442f268bbc91" />
